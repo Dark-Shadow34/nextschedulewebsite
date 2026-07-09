@@ -75,9 +75,9 @@ export function HeroSection() {
             <div className="overflow-hidden rounded-[2.5rem] bg-dark-950 aspect-[9/19.5] relative">
               {/* Note: User should replace this with their Overview screenshot */}
               <img 
-                src="https://placehold.co/1080x2400/12121a/8b5cf6?text=NextSchedule+Overview" 
+                src="/hero.png" 
                 alt="NextSchedule Overview Screen" 
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover bg-dark-800 flex items-center justify-center text-sm text-slate-500"
               />
             </div>
           </div>

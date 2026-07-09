@@ -32,9 +32,9 @@ export function BentoGrid() {
             </div>
             {/* Replace with physics settings screenshot */}
             <img 
-              src="https://placehold.co/1080x2400/12121a/8b5cf6?text=Physics+Customizer+Screenshot" 
+              src="/physics.png" 
               alt="Physics Customizer" 
-              className="w-full h-[120%] object-cover object-top opacity-80 group-hover:scale-105 transition-transform duration-700"
+              className="w-full h-[120%] object-cover object-top opacity-80 group-hover:scale-105 transition-transform duration-700 bg-dark-800"
             />
           </motion.div>
           
@@ -53,9 +53,9 @@ export function BentoGrid() {
             </div>
             {/* Replace with Theme/Appearance screenshot */}
             <img 
-              src="https://placehold.co/1080x2400/12121a/3b82f6?text=Themes+Screenshot" 
+              src="/themes.png" 
               alt="Themes and Appearance" 
-              className="w-full h-full object-cover object-top opacity-80 group-hover:scale-105 transition-transform duration-700"
+              className="w-full h-full object-cover object-top opacity-80 group-hover:scale-105 transition-transform duration-700 bg-dark-800"
             />
           </motion.div>
           
@@ -90,9 +90,9 @@ export function BentoGrid() {
             </div>
             {/* Replace with Overview/Tasks screenshot */}
             <img 
-              src="https://placehold.co/1080x2400/1a1a24/8b5cf6?text=Overview+Screenshot" 
+              src="/overview.png" 
               alt="Task Overview" 
-              className="w-full h-full object-cover object-top opacity-80 group-hover:scale-105 transition-transform duration-700"
+              className="w-full h-full object-cover object-top opacity-80 group-hover:scale-105 transition-transform duration-700 bg-dark-800"
             />
           </motion.div>
           
@@ -113,9 +113,9 @@ export function BentoGrid() {
                <div className="absolute inset-0 bg-gradient-to-r from-dark-800 to-transparent z-10" />
                {/* Replace with Navigation Bar Settings screenshot */}
                <img 
-                  src="https://placehold.co/1080x2400/12121a/3b82f6?text=Nav+Customizer+Screenshot" 
+                  src="/navbar.png" 
                   alt="Navigation Bar Customizer" 
-                  className="w-full h-full object-cover object-top opacity-80"
+                  className="w-full h-full object-cover object-top opacity-80 bg-dark-800"
                 />
             </div>
           </motion.div>
