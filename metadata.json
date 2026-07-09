@@ -1,0 +1,8 @@
+{
+  "name": "NextSchedule Landing Page",
+  "description": "A promotional landing page for the NextSchedule Android app, designed for its sale on Flippa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
